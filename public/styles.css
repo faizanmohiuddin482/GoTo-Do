@@ -1,0 +1,16 @@
+
+body {
+    background-color: #E8ECEF;
+    padding-top: 100px;
+   padding-bottom: 20px;
+  }
+  
+  .centered {
+      padding-top: 200px;
+      text-align: center;
+  }
+  
+  input{
+    padding:10px;
+    margin:10px;
+  }
