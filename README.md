@@ -10,7 +10,7 @@
     GoTo-Do is developed using React on the front-end and NodeJS, MongoDB on the backend.
 
 ## Screenshots:
-    <img width="964" src="https://github.com/faizanmohiuddin482/GoTo-Do/blob/master/screenshots/1.png" alt="ss1">
+    <img width="964" src="https://github.com/faizanmohiuddin482/GoTo-Do/blob/master/screenshots/%201.png" alt="ss1">
 ## Features:
     GoTo-Do performs CRUD operations with a filter option as Completed / Incomplete tasks. 
     It's secured with an authentication system.
